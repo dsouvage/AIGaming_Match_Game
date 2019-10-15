@@ -4,7 +4,7 @@
 #  | |  | | (_| | || (__| | | | | |_| | (_| | | | | | |  __/
 #  |_|  |_|\__,_|\__\___|_| |_|  \____|\__,_|_| |_| |_|\___|
 #
-botName='brockuDylan-defbot'
+botName='brocku-defbot'
 import requests
 import json
 from random import sample, choice
